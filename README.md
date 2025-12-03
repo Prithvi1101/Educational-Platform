@@ -1,1 +1,1 @@
-#StudyBuddy-Educational Platform
+# StudyBuddy-Educational Platform
